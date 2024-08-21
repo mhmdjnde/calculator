@@ -16,5 +16,5 @@ A simple calculator built with JavaScript, HTML, and CSS, designed without using
 Clone the repository and open `index.html` in your browser:
 
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
-cd your-repository-name
+git clone https://github.com/mhmdjnde/calculator/
+cd calculator
